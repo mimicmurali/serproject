@@ -18,3 +18,4 @@ export class AppComponent {
     this.dService.getDataFromWebApi().subscribe(rcvdData=>{this.webdata=rcvdData;})
   }
 }
+//git
